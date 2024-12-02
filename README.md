@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a vehicle rental platform <br>🌱 I’m currently learning in depth JavaScript and REACT.JS<br>⚡ Fun fact: I always wanted to be an ethical hacker.
+🔭 I’m currently working on a vehicle rental platform <br>🌱 I’m currently learning in depth JavaScript and REACT.JS<br>⚡ Fun fact: I'm a virus.
 
 
 # 💻 Tech Stack:
