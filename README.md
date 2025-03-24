@@ -1,7 +1,7 @@
 ![Reach me](https://github.com/user-attachments/assets/3cc70426-bb5e-49f5-b73c-ccb85e43b621)
 
 # 💫 About Me:
-🔭 I’m currently working on a vehicle rental platform <br>🌱 I’m currently learning in depth REACT.JS<br>⚡ Fun fact: I'm a virus.
+🔭 I’m currently working on a vehicle rental platform <br>🌱 I’m currently learning in depth REACTJS and NEXTJS<br>⚡ Fun fact: I'm a virus.
 
 # 💻 Tech Stack:
 
